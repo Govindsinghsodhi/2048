@@ -17,12 +17,8 @@ This project involves creating a Dockerfile to containerize a 2048 game clone fr
 1. **Launch an AWS EC2 Instance**:
    - Set up an EC2 instance using Ubuntu 22.04.
    - Ensure that port 80 is open in the security group settings.
-![EC2 instance](C:\Users\acer\OneDrive\Pictures\Screenshots)  
-   
-
-
-
-
+ 
+  
 2. **Install Docker on the EC2 Instance**:
    ```bash
    sudo apt-get update
